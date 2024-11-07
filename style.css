@@ -1,0 +1,23 @@
+body{
+    margin: 5px; padding: 15px; background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+img{
+    border-radius: 20px;
+    border: solid 2px aqua;
+    margin: 0 auto;
+}
+p{
+    color: brown;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+table{
+    padding-left: 40%;
+    color: brown;
+}
